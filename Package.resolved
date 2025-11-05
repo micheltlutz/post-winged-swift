@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "winged-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/micheltlutz/Winged-Swift.git",
+      "state" : {
+        "revision" : "f7d45e7622f7a256bc3a15e9b433a05ec1069183",
+        "version" : "1.3.3"
+      }
+    }
+  ],
+  "version" : 2
+}

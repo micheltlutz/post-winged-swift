@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/master.swiftdeps"
+  },
+  "/Users/michel/Developer/Posts/post-winged-swift/Sources/MeuSite/DataLoader.swift": {
+    "dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/DataLoader.d",
+    "object": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/DataLoader.swift.o",
+    "swiftmodule": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/DataLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/DataLoader.swiftdeps",
+    "diagnostics": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/DataLoader.dia"
+  },
+  "/Users/michel/Developer/Posts/post-winged-swift/Sources/MeuSite/MeuSite.swift": {
+    "dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/MeuSite.d",
+    "object": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/MeuSite.swift.o",
+    "swiftmodule": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/MeuSite~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/MeuSite.swiftdeps",
+    "diagnostics": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/MeuSite.dia"
+  },
+  "/Users/michel/Developer/Posts/post-winged-swift/Sources/MeuSite/Models.swift": {
+    "dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/Models.d",
+    "object": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/Models.swift.o",
+    "swiftmodule": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/Models.swiftdeps",
+    "diagnostics": "/Users/michel/Developer/Posts/post-winged-swift/.build/x86_64-apple-macosx/debug/MeuSite.build/Models.dia"
+  }
+}

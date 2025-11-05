@@ -1,0 +1,24 @@
+{
+  "name": "Meu App",
+  "description": "Descrição completa do aplicativo",
+  "shortDescription": "Uma descrição curta e impactante do que o app faz",
+  "appStoreURL": "https://apps.apple.com/app/meu-app",
+  "screenshot": "./assets/images/screenshot.png",
+  "logo": "./assets/images/logo.png",
+  "features": [
+    {
+      "id": 1,
+      "title": "Feature 1",
+      "description": "Descrição detalhada da primeira feature",
+      "icon": "star.svg",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "title": "Feature 2",
+      "description": "Descrição detalhada da segunda feature",
+      "icon": "heart.svg",
+      "order": 2
+    }
+  ]
+}
