@@ -1,0 +1,44 @@
+# Swift
+.build/
+.swiftpm/
+Package.resolved
+
+# Swift Package Manager
+.build/
+Packages/
+
+# Xcode
+*.xcodeproj
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+DerivedData/
+
+# Build output (site gerado)
+# IMPORTANTE: A pasta output/ NÃO deve ser ignorada se você fizer deploy
+# direto do repositório (como AWS Amplify). Ela contém o site estático.
+# output/  ← Descomente apenas se não precisar commitar o output
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de conteúdo (opcional)
+# Se você usar JSON para conteúdo e não quiser versionar:
+# content.json
+# content.local.json
